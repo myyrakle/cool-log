@@ -1,0 +1,31 @@
+{
+    "name": "log-pretty",
+    "version": "1.0.0",
+    "description": "simple pretty log function",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/myyrakle/log-pretty.git"
+    },
+    "keywords": [
+        "pretty",
+        "pretty-format",
+        "log"
+    ],
+    "author": {
+        "name": "myyrakle",
+        "email": "sssang97@naver.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/myyrakle/log-pretty/issues"
+    },
+    "homepage": "https://github.com/myyrakle/log-pretty#readme",
+    "readmeFilename": "README.md",
+    "dependencies": {
+        "pretty-format": "^26.1.0"
+    }
+}
