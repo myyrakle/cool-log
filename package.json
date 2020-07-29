@@ -1,5 +1,5 @@
 {
-    "name": "log-pretty",
+    "name": "cool-log",
     "version": "1.0.0",
     "description": "simple pretty log function",
     "main": "index.js",

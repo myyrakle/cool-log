@@ -7,7 +7,7 @@
 It can be installed as follows:
 
 ```
-npm install --save log-pretty
+npm install --save cool-log
 ```
 
 ##
@@ -16,7 +16,7 @@ And you can use it like this:
 Format the value internally and print it to console.log.
 
 ```
-const pr = ("log-pretty");
+const pr = ("cool-log");
 pr("Foo");
 pr({bar:1, boom:2});
 ```
